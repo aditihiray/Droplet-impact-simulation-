@@ -25,7 +25,7 @@ A physics-based simulation and visualisation of a liquid droplet impacting a sol
 
 ### 📈 Diameter vs Time
 
-![Diameter vs Time](output/diameter_vs_time.png)
+![Diameter vs Time](output/Diameter_vs_Time_plot.png)
 
 ### 📈 Weber Number vs Maximum Diameter
 
