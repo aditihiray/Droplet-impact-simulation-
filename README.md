@@ -17,7 +17,7 @@ A physics-based simulation and visualisation of a liquid droplet impacting a sol
 
 ## 🎬 Simulation Preview
 
-![Droplet Impact Animation](output/Droplet.gif)
+![Droplet Impact Animation](output/droplet.gif)
 
 ---
 
