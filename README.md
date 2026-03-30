@@ -115,7 +115,3 @@ droplet-impact-simulation/
 M.Eng Mechatronics & Cyberphysical Systems
 
 ---
-
-## ⭐ If you like this project
-
-Give it a star ⭐ — it helps a lot!
