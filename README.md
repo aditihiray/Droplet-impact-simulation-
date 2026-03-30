@@ -1,6 +1,5 @@
 # 💧 Droplet Impact Simulation
 
-
 ## 📌 Overview
 
 This project presents a physics-based simulation of droplet impact on solid surfaces, focusing on transient spreading dynamics governed by inertial, capillary, and viscous forces.
